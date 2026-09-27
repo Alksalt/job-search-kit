@@ -1,0 +1,5 @@
+# Private workspace templates / Maler for privat arbeidsmappe
+
+These files are blank. Copy their contents into your private workspace after initialization; never fill the public copies with personal information. Use `candidate.en.md` or `candidate.nb.md` for the workspace's `candidate.md`, and `preferences.en.md` or `preferences.nb.md` for `preferences.md`. Copy the chosen approved-text template as `approved-text.md` if useful. Replace placeholders only with sourced facts or explicit preferences. Omit fields you do not need.
+
+Disse filene er tomme. Kopier innholdet til den private arbeidsmappen etter opprettelsen; ikke fyll ut de offentlige kopiene med personopplysninger. Bruk `candidate.en.md` eller `candidate.nb.md` til arbeidsmappens `candidate.md`, og `preferences.en.md` eller `preferences.nb.md` til `preferences.md`. Kopier ønsket mal for godkjent tekst til `approved-text.md` ved behov. Bytt bare ut plassholdere med dokumenterte opplysninger eller uttrykkelige ønsker. Utelat felt du ikke trenger.
